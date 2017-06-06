@@ -131,3 +131,27 @@ lms/lib/comment_client/python
 autodeploy.properties
 .ws_migrations_complete
 dist
+
+##Ignoring unused file
+themes/edge.edx.org
+themes/stanford-style
+themes/red-theme
+themes/conf
+screenshots
+test_root
+requirements
+vendor_extra
+pavelib
+conf
+static
+openedx
+AUTHORS
+CHANGELOG.rst
+CONTRIBUTING.rst
+LICENSE
+pavement.py
+pylintrc
+pylintrc_tweaks
+circle.yml
+Open_edX.egg-info
+.tx
